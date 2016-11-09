@@ -130,18 +130,26 @@ def add_donor(prompt_donor_input):
 
 
 def add_new_amount(prompt_donor_input):
-    donation_amount = int(input("What is the donation amount? '\n"
-                                "> "))
-    donors[prompt_donor_input].append(donation_amount)
+    try:
+        donation_amount = int(input("What is the donation amount? '\n>"))
+    except ValueError:
+        print("Please enter a numeric value.")
+        add_new_amount(prompt_donor_input)
+    else:
+        donors[prompt_donor_input].append(donation_amount)
 
 
 # Add donation amount to new donor #
 
 
 def add_amount(prompt_donor_input):
-    donation_amount = int(input("What is the donation amount? '\n"
-                                "> "))
-    donors[prompt_donor_input] = [donation_amount]
+    try:
+        donation_amount = int(input("What is the donation amount? '\n>"))
+    except ValueError:
+        print("Please enter a numeric value.")
+        add_amount(prompt_donor_input)
+    else:
+        donors[prompt_donor_input] = [donation_amount]
 
 # Print email to terminal #
 
