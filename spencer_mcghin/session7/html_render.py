@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
 
-# ToDo - Put text wrapper class here to
+# ToDo - Put text wrapper class here to handle strings
 
 class Element(object):
     tag = ' '
-    ind = ' '
+    ind = ''
     print('<!DOCTYPE html>')
 
     def __init__(self, content=None, **kwargs):
@@ -20,11 +20,11 @@ class Element(object):
         else:
             self.content.append(TextWrapper(str(content)))  # TextWrapper class here
 
-    def render(self, out_file, ind=''):
-        out_file.write(ind + '<' + self.tag + '>' + '\n')  # add open_tag instead of '<'...
+    def render(self, out_file, cur_ind=''):
+        out_file.write(cur_ind + '<' + self.tag + '>' + '\n')  # add open_tag instead of '<'...
         for line in self.content:
-            line.write(out_file, ind + self.ind)
-        out_file.write(ind + '</' + self.tag + '>')  # add close_tag
+            line.write(out_file, cur_ind + self.ind)
+        out_file.write(cur_ind + '</' + self.tag + '>')  # add close_tag
 
 # ToDo - make method that gets tags and put in render method
 
