@@ -4,16 +4,12 @@
 
 import pandas as pd
 
-""" Classes """
+""" Functions """
 
-class Data(object):
 
-    def __init__(self, data):
+def build_dataframe(file):
+    with open(file, 'rt') as csv_file:
+        data = pd.DataFrame(pd.read_csv(csv_file))
+        print(data)
 
-        self.data = pd.DataFrame(pd.read_csv(open(file, 'rt')))
-        self.dim = data
-
-    # Upload file and convert to data frame object
-
-    def group_by_sum(self):
-
+build_dataframe('/Users/SMcGhin/Documents/python/data_sets/vgsales.csv')
