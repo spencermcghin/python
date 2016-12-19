@@ -12,10 +12,13 @@ of different dice.
 # Imports
 import random
 import tabulate
+import sys
 
 
 # Define Global Variables
-""" Dict object that takes user input (keys) and matches it with the side (value). """
+""" Dict object that takes user input (keys) and matches it with the side (value).
+Used mostly for UI and to validate user input against side_dict keys in dice menu function."""
+
 
 side_dict = {"1": 2,
              "2": 4,
@@ -26,21 +29,14 @@ side_dict = {"1": 2,
              "7": 20,
              "8": 100}
 
-""" List objects that are used to generate menu in dice_menu. """
-
-dice_list = ["d2", "d4", "d6", "d8", "d10", "d12", "d20", "d100"]
-
-number_of_dice = [str(x) + '.' for x in range(1, len(dice_list) + 1)]
-
 
 # Classes
 class Dice(object):
     roll_dict = {}
-    agg_dict = {}
 
-    def __init__(self, number=0, side=None):
-        self.number = number
+    def __init__(self, side=None, number=0):
         self.side = side
+        self.number = number
 
     @staticmethod
     def roll_dice(side, number):
@@ -50,17 +46,13 @@ class Dice(object):
             rolls.append(random.randint(1, side_dict[side]))
         Dice.roll_dict['d' + str(side_dict[side])] = rolls
 
-    # @staticmethod
-    # def agg_rolls():
-    #     """ Sum roll_dict values and update to agg_dict. """
-    #     Dice.agg_dict.update({k: [sum(v)] for k, v in Dice.roll_dict.items()})
-
 
 # Functions for main program
 
 def main():
-    print("Hail Champion and welcome to the Super Dice Roller!" '\n'
-          "Please choose a die to roll from the menu below, and then follow any additional instructions." '\n'
+    """ Jumping off point for program. Goes directly to dice_menu function. """
+    print('\n'"Hail Champion and welcome to the Super Dice Roller!" '\n'
+          "Please choose a die to roll from the menu below." '\n'
           "You'll be able to choose more and/or different dice afterwards. \n")
     dice_menu()
 
@@ -68,29 +60,31 @@ def main():
 def dice_menu():
     """ Print out menu of dice options. """
     print("Choose your die! \n-------- ")
-    dice_options = zip(number_of_dice, dice_list)
-    for number, dice in dice_options:
-        print(number, dice)
+    for number, die in sorted(side_dict.items()):
+        print(number + '.', 'd' + str(die))
+    select_die_type()
+
+
+def select_die_type():
+    """ Get value for user_input variable. Will be used later to pass to roll_dice method. """
     while True:
-        user_input = input("> ") + '.'
-        if user_input not in number_of_dice:
+        user_input = input("> ")
+        if user_input not in side_dict.keys():
             print("Prithee select a value from the list knave!")
         else:
             die_amount_selector(user_input)
 
 
-def die_amount_selector(user_input): # init with input
-    """ Instantiate Dice class and prompt user for inputs. """
-    d = Dice()
-    """ Prompt user for amount of dice to roll and then add to selection_list object. """
+def die_amount_selector(user_input):
+    """ Prompt user for amount of dice to roll. """
     try:
-        die_amount = int(input("How many would you like to roll? '\n> "))
+        die_amount = int(input("How many would you like to roll? \n> "))
     except ValueError:
         print("Prithee select a number from the list knave!")
         die_amount_selector(user_input)
     else:
-        args = user_input.strip('.'), die_amount
-        d.roll_dice(*args)
+        side, number = user_input, die_amount
+        Dice.roll_dice(side, number)
         roll_more_prompt()
 
 
@@ -98,14 +92,12 @@ def roll_more_prompt():
     """ Check with user if they would like to roll more / different dice. """
     print("Would you like to roll any additional dice?")
     while True:
-        confirm = input("Yes (y) or No (n)? '\n> ")
+        confirm = input("Yes (y) or No (n)? \n> ")
         if confirm == 'y':
-            # Dice.agg_rolls()
             dice_menu()
         elif confirm == 'n':
-            # Dice.agg_rolls()
             print_die_results()
-            break
+            exit_die_roller()
         else:
             roll_more_prompt()
 
@@ -113,6 +105,21 @@ def roll_more_prompt():
 def print_die_results():
     """ Print formatted output for agg_dict, which contains summed  dice rolls from roll_dict class object."""
     print(tabulate.tabulate(Dice.roll_dict, headers="keys", tablefmt="fancy_grid", numalign="center"))
+
+
+def exit_die_roller():
+    """ Menu to prompt user to exit or roll again. If they roll again, the roll_dict object is cleared. """
+    while True:
+        confirm = input("Exit (e) or roll again (r)? \n> ")
+        if confirm == 'e':
+            sys.exit()
+        elif confirm == 'r':
+            Dice.roll_dict.clear()
+            dice_menu()
+        else:
+            print("Please select from the available options.")
+            exit_die_roller()
+
 
 if __name__ == '__main__':
     main()

@@ -6,6 +6,7 @@ from Ultimate_Dice_Roller import Dice
 
 
 def test_roll_dice():
+    """ Test for main function of program. """
     d = Dice()
     d.roll_dice('3', 5)
     for k in d.roll_dict.keys():
@@ -14,5 +15,3 @@ def test_roll_dice():
     for k, v in d.roll_dict.items():
         print(v)
         assert len(v) == 5
-
-def test_die_amount_selector():
