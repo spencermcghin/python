@@ -22,9 +22,8 @@ pd.set_option('display.width', 1000)
 """ Functions """
 
 # Create data frame object with which to work
-url = 'https://github.com/spencermcghin/python/blob/master/data_sets/game-of-thrones/battles.csv'
-csv_file_01 = pd.read_csv(url)
-data = pd.DataFrame(csv_file_01)
+file = open('/Users/SMcGhin/Documents/python/data_sets/game-of-thrones/battles.csv', 'rt')
+data = pd.DataFrame(pd.read_csv(file))
 print(data.head())
 
 
