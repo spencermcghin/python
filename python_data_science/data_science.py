@@ -30,30 +30,32 @@ data = pd.DataFrame(pd.read_csv(csv_file_01))
 # print(data.describe())
 
 
-# % Battles Won by House
-house_battles = data[['attacker_1', 'attacker_outcome']].groupby(['attacker_1']).count()
-house_battles.columns = ['total_battles']
+# Total Battles by House
+# house_battles = data[['attacker_1', 'attacker_outcome']].groupby(['attacker_1']).count()
+# house_battles.columns = ['total_battles']
 # house_battles.sort_values(by='total_battles', ascending=False)\
 #     .plot(kind='bar', color=['#FC4F30'], grid=False, legend=None, fontsize=10, title='Battles Fought by House')
 # mp.show()
 # print(house_battles)
-wins = data[['attacker_1', 'attacker_outcome']]
-house_wins = wins[wins['attacker_outcome'] == 'win'].groupby(['attacker_1']).count()
-house_wins.columns = ['battles_won']
+# Battles Won by House
+# wins = data[['attacker_1', 'attacker_outcome']]
+# house_wins = wins[wins['attacker_outcome'] == 'win'].groupby(['attacker_1']).count()
+# house_wins.columns = ['battles_won']
 # print(house_wins)
-win_percent = (house_wins.battles_won/house_battles.total_battles) * 100
-win_percent.columns = ['% Battles Won']
-wins_table = house_wins.join(house_battles)
-wins_table.sort_values(by='total_battles', ascending=False)\
-    .plot(kind='bar', fontsize=10, grid=False, title='Battles Won to Fought')
-mp.show()
+# win_percent = (house_wins.battles_won/house_battles.total_battles) * 100
+# win_percent.columns = ['% Battles Won']
+# wins_table = house_wins.join(house_battles)
+# wins_table.sort_values(by='total_battles', ascending=False)\
+#     .plot(kind='bar', fontsize=10, grid=False, title='Battles Won to Fought')
+# mp.show()
 
 
 # Won Battles Over Time
 # time_battles = data[['year', 'name', 'attacker_1', 'attacker_size']].fillna(0)
 # time_set_filter = time_battles[time_battles['attacker_1'] == 'Lannister']
 # troops = time_set_filter.groupby(['year', 'name']).sum()
-# print(time_battles.groupby(['year', 'attacker_1', 'name']).sum())
+# battles_table = time_battles.groupby(['year', 'attacker_1', 'name']).sum()
+# print(battles_table)
 # troops.unstack().plot(kind='bar', stacked=True, title='Lannister Troops by Battle')
 # mp.show()
 
@@ -80,7 +82,7 @@ Character Deaths Data Set
 
 # Basic bar showing deaths by house
 # char_deaths.sort_values(by='total_deaths')\
-#     .plot(kind='barh', grid=False, legend=None, title='Character Deaths by House Alignment')
+#     .plot(kind='barh', color=['#FC4F30'], grid=False, legend=None, title='Character Deaths by House Alignment')
 # mp.show()
 
 # Plot number of noble deaths per total deaths by house

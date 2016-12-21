@@ -21,11 +21,11 @@
       <file leaf-file-name="data_science.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            <state relative-caret-position="299">
+              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="108" selection-end-column="11" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
-                <marker date="1482341765000" expanded="true" signature="452:595" ph="..." />
+                <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
               </folding>
             </state>
           </provider>
@@ -76,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="57" />
+    <option name="x" value="31" />
+    <option name="y" value="62" />
     <option name="width" value="1253" />
     <option name="height" value="636" />
   </component>
@@ -457,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482282450597</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finished up analyses for Game of Thrones dataset">
+      <created>1482343255237</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1482343255237</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="57" width="1253" height="636" extended-state="0" />
+    <frame x="31" y="62" width="1253" height="636" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -505,7 +512,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482341765000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
           </folding>
         </state>
       </provider>
@@ -531,7 +538,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482341765000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
           </folding>
         </state>
       </provider>
@@ -563,7 +570,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482341765000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
           </folding>
         </state>
       </provider>
@@ -672,11 +679,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="108" selection-end-column="11" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482341765000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
           </folding>
         </state>
       </provider>
