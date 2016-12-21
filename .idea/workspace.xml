@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_sets/game-of-thrones/battles.csv" afterPath="$PROJECT_DIR$/data_sets/game-of-thrones/battles.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jupyter notebooks/Game of Thrones Kernel.ipynb" afterPath="$PROJECT_DIR$/jupyter notebooks/Game of Thrones Kernel.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_data_science/data_science.py" afterPath="$PROJECT_DIR$/python_data_science/data_science.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +22,11 @@
       <file leaf-file-name="data_science.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="108" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
-                <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
+                <marker date="1482354687000" expanded="true" signature="550:602" ph="..." />
               </folding>
             </state>
           </provider>
@@ -76,8 +77,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
-    <option name="y" value="62" />
+    <option name="x" value="32" />
+    <option name="y" value="104" />
     <option name="width" value="1253" />
     <option name="height" value="636" />
   </component>
@@ -468,8 +469,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="62" width="1253" height="636" extended-state="0" />
-    <editor active="true" />
+    <frame x="32" y="104" width="1253" height="636" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -512,7 +513,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482354687000" expanded="true" signature="550:602" ph="..." />
           </folding>
         </state>
       </provider>
@@ -538,7 +539,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482354687000" expanded="true" signature="550:602" ph="..." />
           </folding>
         </state>
       </provider>
@@ -570,7 +571,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482354687000" expanded="true" signature="550:602" ph="..." />
           </folding>
         </state>
       </provider>
@@ -679,11 +680,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="108" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
-            <marker date="1482348742000" expanded="true" signature="452:595" ph="..." />
+            <marker date="1482354687000" expanded="true" signature="550:602" ph="..." />
           </folding>
         </state>
       </provider>
