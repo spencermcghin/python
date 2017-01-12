@@ -30,7 +30,7 @@ def client(msg, log_buffer=sys.stderr):
         chunk = ''
         expected = len(msg)
 
-        while chunk != expected:
+        while chunk < expected:
             data = sock.recv(16)
             chunk += len(data)
             print('received "{0}"'.format(chunk.decode('utf8')), file=log_buffer)

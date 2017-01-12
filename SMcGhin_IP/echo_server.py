@@ -21,7 +21,6 @@ def server(log_buffer=sys.stderr):
 
     # bind your new sock 'sock' to the address above and begin to listen
     #       for incoming connections
-    sock.bind(address)
     sock.listen(1)
 
     try:
@@ -72,7 +71,7 @@ def server(log_buffer=sys.stderr):
                 connection.close()
 
     except KeyboardInterrupt:
-        # TODO: Use the python KeyboardInterrupt exception as a signal to
+        # Use the python KeyboardInterrupt exception as a signal to
         #       close the server socket and exit from the server function.
         #       Replace the call to `pass` below, which is only there to
         #       prevent syntax problems
