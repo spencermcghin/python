@@ -21,8 +21,8 @@
       <file leaf-file-name="echo_server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/echo_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-668">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="472">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -469,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484264305630</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="removed done, TODO's">
+      <created>1484264333551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1484264333551</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +514,8 @@
     <MESSAGE value="built echo server" />
     <MESSAGE value="built echo server and client server" />
     <MESSAGE value="reconstructed using skeletons from course" />
-    <option name="LAST_COMMIT_MESSAGE" value="reconstructed using skeletons from course" />
+    <MESSAGE value="removed done, TODO's" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed done, TODO's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -753,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SMcGhin_IP/echo_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-668">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="472">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
