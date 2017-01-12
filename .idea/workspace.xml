@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMcGhin_IP/tests.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/echo_client.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/echo_client.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/echo_server.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/echo_server.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="echo_server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/echo_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="72" column="16" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+            <state relative-caret-position="-668">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -464,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484252227573</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="reconstructed using skeletons from course">
+      <created>1484264305630</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1484264305630</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,7 +506,8 @@
     <MESSAGE value="finished up analyses for Game of Thrones dataset" />
     <MESSAGE value="built echo server" />
     <MESSAGE value="built echo server and client server" />
-    <option name="LAST_COMMIT_MESSAGE" value="built echo server and client server" />
+    <MESSAGE value="reconstructed using skeletons from course" />
+    <option name="LAST_COMMIT_MESSAGE" value="reconstructed using skeletons from course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -747,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SMcGhin_IP/echo_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="72" column="16" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        <state relative-caret-position="-668">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

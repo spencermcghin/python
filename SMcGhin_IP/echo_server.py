@@ -8,7 +8,7 @@ def server(log_buffer=sys.stderr):
     # Replace the following line with your code which will instantiate
     #       a TCP socket with IPv4 Addressing, call the socket you make 'sock'
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    # TODO: You may find that if you repeatedly run the server script it fails,
+    # You may find that if you repeatedly run the server script it fails,
     #       claiming that the port is already used.  You can set an option on
     #       your socket that will fix this problem. We DID NOT talk about this
     #       in class. Find the correct option by reading the very end of the
@@ -43,7 +43,7 @@ def server(log_buffer=sys.stderr):
                 # buffers.  When a complete message has been received, the
                 # loop will exit
                 while True:
-                    # TODO: receive 16 bytes of data from the client. Store
+                    # receive 16 bytes of data from the client. Store
                     #       the data you receive as 'data'.  Replace the
                     #       following line with your code.  It's only here as
                     #       a placeholder to prevent an error in string
@@ -63,7 +63,7 @@ def server(log_buffer=sys.stderr):
                     # complete.  If it is, break out of this inner loop.
 
             finally:
-                # TODO: When the inner loop exits, this 'finally' clause will
+                # When the inner loop exits, this 'finally' clause will
                 #       be hit. Use that opportunity to close the socket you
                 #       created above when a client connected.
                 print(
