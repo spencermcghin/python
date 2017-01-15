@@ -4,7 +4,7 @@ import sys
 
 def server(log_buffer=sys.stderr):
     # set an address for our server
-    address = ('127.0.0.1', 10000)
+    address = ('localhost', 10000)
     # Replace the following line with your code which will instantiate
     #       a TCP socket with IPv4 Addressing, call the socket you make 'sock'
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

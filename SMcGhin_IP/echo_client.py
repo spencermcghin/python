@@ -18,16 +18,16 @@ def client(msg, log_buffer=sys.stderr):
     # when we are finished with it
     try:
         print('sending "{0}"'.format(msg), file=log_buffer)
-        # TODO: send your message to the server here.
+        # send your message to the server here.
         sock.sendall(msg)
-        # TODO: the server should be sending you back your message as a series
+        # the server should be sending you back your message as a series
         #       of 16-byte chunks. Accumulate the chunks you get to build the
         #       entire reply from the server. Make sure that you have received
         #       the entire message and then you can break the loop.
         #
         #       Log each chunk you receive.  Use the print statement below to
         #       do it. This will help in debugging problems
-        chunk = ''
+        chunk = 0
         expected = len(msg)
 
         while chunk < expected:
@@ -40,7 +40,7 @@ def client(msg, log_buffer=sys.stderr):
         # the server you will want to close your client socket.
         print('closing socket', file=log_buffer)
         sock.close()
-        # TODO: when all is said and done, you should return the entire reply
+        # when all is said and done, you should return the entire reply
         # you received from the server as the return value of this function.
 
 
