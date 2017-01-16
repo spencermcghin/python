@@ -3,7 +3,8 @@ import sys
 
 
 def client(msg, log_buffer=sys.stderr):
-    server_address = ('localhost', 10000)
+    msg = bytes(msg, encoding='utf-8')
+    server_address = ('127.0.0.1', 50000)
     # Replace the following line with your code which will instantiate
     # a TCP socket with IPv4 Addressing, call the socket you make 'sock'
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -13,7 +14,7 @@ def client(msg, log_buffer=sys.stderr):
     # you can use this variable to accumulate the entire message received back
     # from the server
     # received_message = ''
-
+    # TODO - what about this variable? Confused...
     # this try/finally block exists purely to allow us to close the socket
     # when we are finished with it
     try:
@@ -33,7 +34,7 @@ def client(msg, log_buffer=sys.stderr):
         while chunk < expected:
             data = sock.recv(16)
             chunk += len(data)
-            print('received "{0}"'.format(chunk.decode('utf8')), file=log_buffer)
+            print('received {!r}'.format(data), file=log_buffer)
 
     finally:
         # after you break out of the loop receiving echoed chunks from
