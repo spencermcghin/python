@@ -33,7 +33,7 @@ def client(msg, log_buffer=sys.stderr):
         while chunk < expected:
             data = sock.recv(16)
             chunk += data
-            print('received {!r}'.format(data), file=log_buffer)
+            print('received {!r}'.format(chunk.decode('utf8')), file=log_buffer)
             if len(chunk) < 16:
                 break
 

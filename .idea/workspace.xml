@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="tests passing but encoding being weird">
+    <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,21 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="echo_client.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="echo_client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state relative-caret-position="208">
+              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="echo_server.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="echo_server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+            <state relative-caret-position="253">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -76,14 +77,14 @@
         <option value="$PROJECT_DIR$/SMcGhin_IP/echo_server.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/echo_client.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/tests.py" />
-        <option value="$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py" />
+        <option value="$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="47" />
+    <option name="x" value="28" />
+    <option name="y" value="42" />
     <option name="width" value="1253" />
     <option name="height" value="650" />
   </component>
@@ -523,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484581532179</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fixed code in class&#10;">
+      <created>1484706668152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1484706668152</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="47" width="1253" height="650" extended-state="0" />
+    <frame x="28" y="42" width="1253" height="650" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24181964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -564,7 +572,8 @@
     <MESSAGE value="reconstructed using skeletons from course" />
     <MESSAGE value="removed done, TODO's" />
     <MESSAGE value="tests passing but encoding being weird" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests passing but encoding being weird" />
+    <MESSAGE value="fixed code in class&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed code in class&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -804,21 +813,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py">
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="208">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py">
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="253">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -15,7 +15,6 @@ def server(log_buffer=sys.stderr):
     #       socket library documentation:
     #       http://docs.python.org/3/library/socket.html#example
     sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    print('sock opt executed')
     sock.bind(address)
     # log that we are building a server
     print("making a server on {0}:{1}".format(*address), file=log_buffer)
@@ -66,9 +65,7 @@ def server(log_buffer=sys.stderr):
                 # When the inner loop exits, this 'finally' clause will
                 #       be hit. Use that opportunity to close the socket you
                 #       created above when a client connected.
-                print(
-                    'echo complete, client connection closed', file=log_buffer
-                )
+                print('echo complete, client connection closed', file=log_buffer)
                 connection.close()
 
     except KeyboardInterrupt:
