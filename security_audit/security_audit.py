@@ -22,8 +22,6 @@ import platform
 # Set domain home as argument
 domain_home = sys.argv[1]
 
-# Makes sure DOMAIN_HOME is set and then cd to bitools dir
-os.chdir(domain_home+'/bitools/bin')
 
 # OBIEE runcat file drop locations
 file_loc_win = 'C:\\permissions_report.csv'
@@ -35,18 +33,18 @@ file_loc_lin = '/tmp/permissions_report.csv'
 
 # Run runcat script to generate csv permissions report - note report output in C:\
 def win_runcat():
-    os.system('runcat.cmd -cmd report -offline C:/Oracle/Middleware' +
-              '/Oracle_Home/user_projects/domains/bifoundation/bidata' +
-              '/service_instances/ssi/metadata/content/catalog'
+    # TODO: Replace offline path w/ domain_home
+    os.system('runcat.cmd -cmd report -offline ' + domain_home +
+              '/bidata/service_instances/ssi/metadata/content/catalog'
               ' -forceoutputFile C:\\permissions_report.csv'
               ' -type "All" -folder "/shared"'
               ' -fields "Owner:Name:Path:ACL:Group Members" -delimiter ","')
 
 
 def lin_runcat():
-    os.system('runcat.sh -cmd report -offline C:/Oracle/Middleware' +
-              '/Oracle_Home/user_projects/domains/bifoundation/bidata' +
-              '/service_instances/ssi/metadata/content/catalog'
+    # TODO: Replace offline path w/ domain_home
+    os.system('runcat.sh -cmd report -offline ' + domain_home +
+              '/bidata/service_instances/ssi/metadata/content/catalog'
               ' -forceoutputFile /tmp/permissions_report.csv'
               ' -type "All" -folder "/shared"'
               ' -fields "Owner:Name:Path:ACL:Group Members" -delimiter ","')
@@ -68,7 +66,6 @@ def exp_to_csv_lin(exp_file):
 # Create and clean up dataframes and then dump to csv
 def df_to_cleancsv(csv):
     df = pd.DataFrame(pd.read_csv(csv))
-    #  Clean up ACL column values
     df['ACL'] = df['ACL'].str.replace('^', ' ').str.replace(':', '').str.replace('=', ':')
     df = df.sort_values(['Owner'])
     return df
@@ -78,12 +75,26 @@ def df_to_cleancsv(csv):
 
 if __name__ == '__main__':
     if platform.system() == 'Windows':
-        win_runcat()
-        export_win = df_to_cleancsv(file_loc_win)
-        os.remove(file_loc_win)  # Get rid of runcat csv output
-        exp_to_csv_win(export_win)  # Export dataframe to csv using function above
+        try:
+            os.chdir(domain_home + '/bitools/bin')
+        except Exception as e:
+            print('Domain home not entered correctly or does not exist. Please check DOMAIN_HOME path'
+                  ' and try again.')
+            sys.exit()
+        else:
+            win_runcat()
+            export_win = df_to_cleancsv(file_loc_win)  # Create dataframe from runcat output
+            os.remove(file_loc_win)  # Get rid of runcat csv output
+            exp_to_csv_win(export_win)  # Export dataframe to csv using function above
     elif platform.system() == 'Linux':
-        lin_runcat()
-        export_lin = df_to_cleancsv(file_loc_lin)
-        os.remove(file_loc_lin)
-        exp_to_csv_lin(export_lin)
+        try:
+            os.chdir(domain_home + '/bitools/bin')
+        except Exception as e:
+            print('Domain home not entered correctly, or does not exist. Please check DOMAIN_HOME path'
+                  ' and try again.')
+            sys.exit()
+        else:
+            lin_runcat()
+            export_lin = df_to_cleancsv(file_loc_lin)
+            os.remove(file_loc_lin)
+            exp_to_csv_lin(export_lin)
