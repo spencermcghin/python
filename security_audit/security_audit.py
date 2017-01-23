@@ -33,7 +33,6 @@ file_loc_lin = '/tmp/permissions_report.csv'
 
 # Run runcat script to generate csv permissions report - note report output in C:\
 def win_runcat():
-    # TODO: Replace offline path w/ domain_home
     os.system('runcat.cmd -cmd report -offline ' + domain_home +
               '/bidata/service_instances/ssi/metadata/content/catalog'
               ' -forceoutputFile C:\\permissions_report.csv'
@@ -42,7 +41,6 @@ def win_runcat():
 
 
 def lin_runcat():
-    # TODO: Replace offline path w/ domain_home
     os.system('runcat.sh -cmd report -offline ' + domain_home +
               '/bidata/service_instances/ssi/metadata/content/catalog'
               ' -forceoutputFile /tmp/permissions_report.csv'
@@ -70,7 +68,8 @@ def df_to_cleancsv(csv):
     df = df.sort_values(['Owner'])
     return df
 
-# Main Program
+
+""" Main Program """
 
 
 if __name__ == '__main__':

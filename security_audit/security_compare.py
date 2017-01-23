@@ -27,7 +27,9 @@ sec_mapping_02 = sys.argv[2]
 pd.set_option('display.max_colwidth', -1)
 
 
-# Functions for flask app
+""" Functions for Flask app."""
+
+
 @app.route('/sec_audit')
 def show_audit():
     df_low = csv_to_dataframe(sec_mapping_01)
@@ -42,6 +44,9 @@ def show_audit():
 def csv_to_dataframe(data):
     df = pd.DataFrame(pd.read_csv(data))
     return df
+
+
+""" Main program. """
 
 
 if __name__ == '__main__':
