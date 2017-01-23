@@ -35,7 +35,6 @@ file_loc_lin = '/tmp/permissions_report.csv'
 
 # Run runcat script to generate csv permissions report - note report output in C:\
 def win_runcat():
-    # TODO: Replace offline path w/ domain_home
     os.system('runcat.cmd -cmd report -offline C:/Oracle/Middleware' +
               '/Oracle_Home/user_projects/domains/bifoundation/bidata' +
               '/service_instances/ssi/metadata/content/catalog'
@@ -45,7 +44,6 @@ def win_runcat():
 
 
 def lin_runcat():
-    # TODO: Replace offline path w/ domain_home
     os.system('runcat.sh -cmd report -offline C:/Oracle/Middleware' +
               '/Oracle_Home/user_projects/domains/bifoundation/bidata' +
               '/service_instances/ssi/metadata/content/catalog'
@@ -70,6 +68,7 @@ def exp_to_csv_lin(exp_file):
 # Create and clean up dataframes and then dump to csv
 def df_to_cleancsv(csv):
     df = pd.DataFrame(pd.read_csv(csv))
+    #  Clean up ACL column values
     df['ACL'] = df['ACL'].str.replace('^', ' ').str.replace(':', '').str.replace('=', ':')
     df = df.sort_values(['Owner'])
     return df
