@@ -10,7 +10,8 @@ or whichever environment you'd like to validate against.
 3. Move file 'C:\security_mappings.csv or /tmp/security_mappings.csv from target
    migration server to lower environment server and rename it 'security_mappings_02',
    placing it in the same directory as your other security_mappings.csv file.
-4. Run security_compare.py and go to 'localhost:5000/sec_audit' to view test results."""
+4. Run security_compare.py, passing in both file locations as arguments,
+   and then go to 'localhost:5000/sec_audit' to view test results."""
 
 
 # Imports - please ensure these are installed on all servers
@@ -23,7 +24,8 @@ import platform
 domain_home = sys.argv[1]
 
 
-# OBIEE runcat file and clean file drop locations
+# OBIEE runcat file and clean file drop locations. Both 'file_loc_x' variables can be changed
+# per your file system settings
 file_loc_win = 'C:\\permissions_report.csv'
 file_loc_lin = '/tmp/permissions_report.csv'
 win_path = 'C:\\security_mappings.csv'
@@ -37,7 +39,7 @@ lin_path = '/tmp/security_mappings.csv'
 def win_runcat():
     os.system('runcat.cmd -cmd report -offline ' + domain_home +
               '/bidata/service_instances/ssi/metadata/content/catalog'
-              ' -forceoutputFile C:\\permissions_report.csv'
+              ' -forceoutputFile ' + file_loc_win +
               ' -type "All" -folder "/shared"'
               ' -fields "Owner:Name:Path:ACL:Group Members" -delimiter ","')
 
@@ -45,7 +47,7 @@ def win_runcat():
 def lin_runcat():
     os.system('runcat.sh -cmd report -offline ' + domain_home +
               '/bidata/service_instances/ssi/metadata/content/catalog'
-              ' -forceoutputFile /tmp/permissions_report.csv'
+              ' -forceoutputFile ' + file_loc_lin +
               ' -type "All" -folder "/shared"'
               ' -fields "Owner:Name:Path:ACL:Group Members" -delimiter ","')
 
