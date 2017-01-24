@@ -2,7 +2,6 @@ import socket
 import sys
 import os
 import magic
-import mimetypes
 
 
 def server(log_buffer=sys.stderr):
@@ -31,7 +30,7 @@ def server(log_buffer=sys.stderr):
                     response = response_method_not_allowed()
                 else:
                     try:
-                        content, mime_type = resolve_uri(url)
+                        content, mime_type = resolve_uri(uri)
                     except NameError:
                         response = response_not_found()
                     else:

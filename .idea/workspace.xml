@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session02/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/SMcGhin_IP/session02/.cache/v/cache/lastfailed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,24 +19,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="http_server.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="http_server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="510">
+              <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="security_audit.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/security_audit/security_audit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -46,18 +38,6 @@
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="security_compare.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/security_audit/security_compare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#980#990#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,15 +81,15 @@
         <option value="$PROJECT_DIR$/SMcGhin_IP/tests.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/session01/echo_client.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/session01/echo_server.py" />
-        <option value="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" />
-        <option value="$PROJECT_DIR$/security_audit/security_audit.py" />
         <option value="$PROJECT_DIR$/security_audit/security_compare.py" />
+        <option value="$PROJECT_DIR$/security_audit/security_audit.py" />
+        <option value="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="27" />
-    <option name="y" value="23" />
+    <option name="y" value="30" />
     <option name="width" value="1253" />
     <option name="height" value="777" />
   </component>
@@ -693,11 +673,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485283708233</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Updated security compare to have flask run in background.">
+      <created>1485283785483</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1485283785483</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="23" width="1253" height="777" extended-state="0" />
+    <frame x="27" y="30" width="1253" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24181964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1026,6 +1013,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/security_audit/security_audit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_audit/security_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#980#990#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session02/simple_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1038,28 +1043,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security_audit/security_audit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security_audit/security_compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#980#990#0" expanded="true" />
           </folding>
         </state>
       </provider>
