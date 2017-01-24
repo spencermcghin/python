@@ -24,8 +24,8 @@ import platform
 domain_home = sys.argv[1]
 
 
-# OBIEE runcat file and clean file drop locations. Both 'file_loc_x' variables can be changed
-# per your file system settings
+# OBIEE runcat file and clean file drop locations. Both the 'file_loc_x' and 'x_path' variables can be changed
+# per your file system configuration
 file_loc_win = 'C:\\permissions_report.csv'
 file_loc_lin = '/tmp/permissions_report.csv'
 win_path = 'C:\\security_mappings.csv'
