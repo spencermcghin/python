@@ -23,9 +23,11 @@ import platform
 domain_home = sys.argv[1]
 
 
-# OBIEE runcat file drop locations
+# OBIEE runcat file and clean file drop locations
 file_loc_win = 'C:\\permissions_report.csv'
 file_loc_lin = '/tmp/permissions_report.csv'
+win_path = 'C:\\security_mappings.csv'
+lin_path = '/tmp/security_mappings.csv'
 
 
 """ Main functions for program."""
@@ -49,16 +51,9 @@ def lin_runcat():
 
 
 # Export cleaned up dataframes to server as csv
-def exp_to_csv_win(exp_file):
+def exp_to_csv(exp_file, path):
     export = pd.DataFrame(exp_file)
-    win_path = 'C:\\security_mappings.csv'
-    export.to_csv(win_path, index=False)
-
-
-def exp_to_csv_lin(exp_file):
-    export = pd.DataFrame(exp_file)
-    lin_path = '/tmp/security_mappings.csv'
-    export.to_csv(lin_path, index=False)
+    export.to_csv(path, index=False)
 
 
 # Create and clean up dataframes and then dump to csv
@@ -73,27 +68,19 @@ def df_to_cleancsv(csv):
 
 
 if __name__ == '__main__':
-    if platform.system() == 'Windows':
-        try:
-            os.chdir(domain_home + '/bitools/bin')
-        except Exception as e:
-            print('Domain home not entered correctly or does not exist. Please check DOMAIN_HOME path'
-                  ' and try again.')
-            sys.exit()
-        else:
-            win_runcat()
-            export_win = df_to_cleancsv(file_loc_win)  # Create dataframe from runcat output
-            os.remove(file_loc_win)  # Get rid of runcat csv output
-            exp_to_csv_win(export_win)  # Export dataframe to csv using function above
-    elif platform.system() == 'Linux':
-        try:
-            os.chdir(domain_home + '/bitools/bin')
-        except Exception as e:
-            print('Domain home not entered correctly, or does not exist. Please check DOMAIN_HOME path'
-                  ' and try again.')
-            sys.exit()
-        else:
-            lin_runcat()
-            export_lin = df_to_cleancsv(file_loc_lin)
-            os.remove(file_loc_lin)
-            exp_to_csv_lin(export_lin)
+    try:
+        os.chdir(domain_home + '/bitools/bin')
+    except Exception as e:
+        print('Domain home not entered correctly or does not exist. Please check DOMAIN_HOME path'
+              ' and try again.')
+        sys.exit()
+    if platform.system == 'Windows':
+        win_runcat()
+        export_win = df_to_cleancsv(file_loc_win)  # Create dataframe from runcat output
+        os.remove(file_loc_win)  # Get rid of runcat csv output
+        exp_to_csv(export_win, win_path)  # Export dataframe to csv using function above
+    else:
+        lin_runcat()
+        export_lin = df_to_cleancsv(file_loc_lin)
+        os.remove(file_loc_lin)
+        exp_to_csv(export_lin, lin_path)
