@@ -1,4 +1,4 @@
-#!/usr/bin/python
+﻿#!/usr/bin/python
 
 """ Security mapping audit for OBIEE 12c. This code will generate a permissions report for all
 catalog objects, for the server upon which it is run. It takes the domain home as an argument in
@@ -10,13 +10,15 @@ or whichever environment you'd like to validate against.
 3. Move file 'C:\security_mappings.csv or /tmp/security_mappings.csv from target
    migration server to lower environment server and rename it 'security_mappings_02',
    placing it in the same directory as your other security_mappings.csv file.
-4. Run security_compare.py, passing in both file locations as arguments,
-   and then go to 'localhost:5000/sec_audit' to view test results."""
+4. Run security_compare.py and go to 'localhost:5000/sec_audit' to view test results."""
 
 
 # Imports - please ensure these are installed on all servers
 import sys
+import socket
 import pandas as pd
+import webbrowser
+import threading
 from flask import *
 app = Flask(__name__)
 
@@ -28,9 +30,7 @@ sec_mapping_02 = sys.argv[2]
 pd.set_option('display.max_colwidth', -1)
 
 
-""" Functions for Flask app."""
-
-
+# Functions for flask app
 @app.route('/sec_audit')
 def show_audit():
     df_low = csv_to_dataframe(sec_mapping_01)
@@ -47,8 +47,8 @@ def csv_to_dataframe(data):
     return df
 
 
-""" Main program. """
-
-
 if __name__ == '__main__':
-    app.run()
+    host = socket.gethostbyname(socket.gethostname())
+    webbrowser.open('http://' + host + ':5000/sec_audit', new=2)
+    flask_thread = threading.Thread(target=app.run(host=host))
+    flask_thread.start()
