@@ -71,12 +71,12 @@ def df_to_cleancsv(csv):
 
 if __name__ == '__main__':
     try:
-        os.chdir(domain_home + '/bitools/bin')
+        os.chdir(domain_home + '/bitools/bin')  # change dir to bitools binaries to run runcat command
     except Exception as e:
         print('Domain home not entered correctly or does not exist. Please check DOMAIN_HOME path'
               ' and try again.')
         sys.exit()
-    if platform.system == 'Windows':
+    if platform.system == 'Windows':  # check if OS is windows
         win_runcat()
         export_win = df_to_cleancsv(file_loc_win)  # Create dataframe from runcat output
         os.remove(file_loc_win)  # Get rid of runcat csv output
