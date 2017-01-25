@@ -1,0 +1,4 @@
+{
+  "tests.py::EchoTestCase::test_long_message_echo": true,
+  "tests.py::EchoTestCase::test_short_message_echo": true
+}

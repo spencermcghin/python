@@ -1,0 +1,17 @@
+{
+  "tests.py::HTTPServerFunctionalTestCase::test_get_request": true,
+  "tests.py::HTTPServerFunctionalTestCase::test_missing_resource": true,
+  "tests.py::HTTPServerFunctionalTestCase::test_post_request": true,
+  "tests.py::HTTPServerFunctionalTestCase::test_webroot_file_uris": true,
+  "tests.py::HTTPServerFunctionalTestCase::test_webroot_image_uris": true,
+  "tests.py::ResolveURITestCase::test_directory_resource": true,
+  "tests.py::ResolveURITestCase::test_file_resource": true,
+  "tests.py::ResolveURITestCase::test_image_resource": true,
+  "tests.py::ResolveURITestCase::test_missing_resource": true,
+  "tests.py::ResponseOkTestCase::test_passed_body_in_response": true,
+  "tests.py::ResponseOkTestCase::test_passed_mimetype_in_response": true,
+  "tests.py::ResponseOkTestCase::test_response_code": true,
+  "tests.py::ResponseOkTestCase::test_response_has_content_type_header": true,
+  "tests.py::ResponseOkTestCase::test_response_has_legitimate_content_type": true,
+  "tests.py::ResponseOkTestCase::test_response_protocol": true
+}

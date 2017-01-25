@@ -25,6 +25,7 @@ class EchoTestCase(unittest.TestCase):
         """test that a message short than 16 bytes echoes cleanly"""
         expected = "short message"
         actual = self.send_message(expected)
+        print(actual)
         self.assertEqual(
             expected,
             actual,

@@ -4,7 +4,7 @@ import sys
 
 def server(log_buffer=sys.stderr):
     # set an address for our server
-    address = ('127.0.0.1', 10000)
+    address = ('127.0.0.1', 50000)
     # Replace the following line with your code which will instantiate
     #       a TCP socket with IPv4 Addressing, call the socket you make 'sock'
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -65,9 +65,7 @@ def server(log_buffer=sys.stderr):
                 # When the inner loop exits, this 'finally' clause will
                 #       be hit. Use that opportunity to close the socket you
                 #       created above when a client connected.
-                print(
-                    'echo complete, client connection closed', file=log_buffer
-                )
+                print('echo complete, client connection closed', file=log_buffer)
                 connection.close()
 
     except KeyboardInterrupt:
