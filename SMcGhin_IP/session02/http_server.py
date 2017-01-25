@@ -83,6 +83,7 @@ def response_not_found():
 
 
 def resolve_uri(uri):
+    os.chdir('')
     server_path = os.getcwd() + uri
     mime_type = magic.from_file(server_path, mime=True)  # identify mimetype
     content = list()
