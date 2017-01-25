@@ -2,8 +2,8 @@ import socket
 import sys
 
 
-def bytes_client(msg):
-    server_address = ('localhost', 10000)
+def client(msg):
+    server_address = ('localhost', 50000)
     sock = socket.socket(
         socket.AF_INET, socket.SOCK_STREAM, socket.IPPROTO_TCP
     )
@@ -12,7 +12,7 @@ def bytes_client(msg):
         file=sys.stderr
     )
     sock.connect(server_address)
-    response = b''
+    response = ''
     done = False
     bufsize = 1024
     try:
@@ -22,16 +22,12 @@ def bytes_client(msg):
             chunk = sock.recv(bufsize)
             if len(chunk) < bufsize:
                 done = True
-            response += chunk
+            response += chunk.decode('utf8')
         print('received "{0}"'.format(response), file=sys.stderr)
     finally:
         print('closing socket', file=sys.stderr)
         sock.close()
     return response
-
-
-def client(msg):
-    return bytes_client(msg).decode('utf8')
 
 
 if __name__ == '__main__':
