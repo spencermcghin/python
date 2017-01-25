@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session02/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/SMcGhin_IP/session02/.cache/v/cache/lastfailed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/session02/http_server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/session02/tests.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/session02/tests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -643,7 +640,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485288737833</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated http_server">
+      <created>1485309122861</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1485309122861</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
