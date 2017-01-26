@@ -76,7 +76,7 @@ if __name__ == '__main__':
         print('Domain home not entered correctly or does not exist. Please check DOMAIN_HOME path'
               ' and try again.')
         sys.exit()
-    if platform.system == 'Windows':  # check if OS is windows
+    if platform.system == 'Windows':  # check if OS is Windows
         win_runcat()
         export_win = df_to_cleancsv(file_loc_win)  # Create dataframe from runcat output
         os.remove(file_loc_win)  # Get rid of runcat csv output
