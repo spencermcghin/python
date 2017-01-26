@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f4c43-f9a1-4d39-91e3-d1fea2c76ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training.python_web" afterPath="$PROJECT_DIR$/training.python_web" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -656,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485452990806</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="removed training dir">
+      <created>1485453099932</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1485453099932</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView">
@@ -699,7 +705,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added numpy exercise file&#10;" />
     <MESSAGE value="added csv reader" />
     <MESSAGE value="begin functional programming portion" />
     <MESSAGE value="added won to total vis and updated data set" />
@@ -724,7 +729,8 @@
     <MESSAGE value="wsgi in class exercise" />
     <MESSAGE value="capitalize windows in sec compare" />
     <MESSAGE value="Start calc wsgi project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start calc wsgi project" />
+    <MESSAGE value="removed training dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed training dir" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1060,9 +1066,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
