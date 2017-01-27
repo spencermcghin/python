@@ -1,4 +1,4 @@
-﻿﻿#!/usr/bin/python
+﻿#!/usr/bin/python
 
 """ Security mapping audit for OBIEE 12c. This code will generate a permissions report for all
 catalog objects, for the server upon which it is run. It takes the domain home as an argument in
@@ -10,8 +10,8 @@ or whichever environment you'd like to validate against.
 3. Move file 'C:\security_mappings.csv or /tmp/security_mappings.csv from target
    migration server to lower environment server and rename it 'security_mappings_02',
    placing it in the same directory as your other security_mappings.csv file.
-4. Run security_compare.py and go to 'localhost:5000/sec_audit' to view test results."""
-
+4. Run security_compare.py, passing in both file locations as arguments,
+   and then view the results of the test in your browser."""
 
 # Imports - please ensure these are installed on all servers
 import sys
