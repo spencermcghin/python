@@ -13,7 +13,6 @@ or whichever environment you'd like to validate against.
 4. Run security_compare.py, passing in both file locations as arguments,
    and then view the results of the test in your browser."""
 
-
 # Imports - please ensure these are installed on all servers
 import os
 import sys
