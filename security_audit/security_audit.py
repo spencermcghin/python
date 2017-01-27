@@ -18,7 +18,7 @@ import os
 import sys
 import pandas as pd
 import platform
-
+ 
 # Set domain home as argument
 domain_home = sys.argv[1]
 
