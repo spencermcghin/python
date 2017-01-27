@@ -4,6 +4,7 @@ from flask_slack import Slack
 from slackclient import SlackClient
 from jira import JIRA
 from jira.exceptions import JIRAError
+from rmtask_env_vars import *
 import json
 import os
 
@@ -107,7 +108,7 @@ def __jira_create(user, channel, project, summary, issuetype):
 
 
 if __name__ == '__main__':
-    app.run(debug=False, host='127.0.0.1', port=5000)
+    app.run(debug=False, host='34.249.157.229', port=5000)
 
 
 

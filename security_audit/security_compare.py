@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python
+﻿﻿#!/usr/bin/python
 
 """ Security mapping audit for OBIEE 12c. This code will generate a permissions report for all
 catalog objects, for the server upon which it is run. It takes the domain home as an argument in
@@ -37,8 +37,15 @@ def show_audit():
     df_high = csv_to_dataframe(sec_mapping_02)
     merged_df = df_low.merge(df_high, how='left', indicator=True)
     filtered_df = merged_df[merged_df['_merge'] == 'left_only']
-    data = filtered_df[['Owner', 'Name', 'Path', 'ACL']]
-    return render_template('audit_results.html', data=data.to_html(index=False))
+    try:
+        data = filtered_df[['Owner', 'Name', 'Path', 'ACL']]
+    except Exception as e:
+        print('a Dataframe error has occured')
+        sys.exit()
+    if data.empty:
+        return render_template('no_audit_results.html', data=data.to_html(index=False))
+    else:
+        return render_template('audit_results.html', data=data.to_html(index=False))
 
 
 # Generate data frames
