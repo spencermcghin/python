@@ -81,7 +81,6 @@ if __name__ == '__main__':
     domain_home = str(os.getenv('DOMAIN_HOME'))
     if not os.path.exists(domain_home):
         domain_home = verify_domain_home()
-        print(domain_home)
         os.chdir(domain_home + '/bitools/bin')
     else:
         os.chdir(domain_home + '/bitools/bin')  # change dir to bitools binaries to run runcat command
