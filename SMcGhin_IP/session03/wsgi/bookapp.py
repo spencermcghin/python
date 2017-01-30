@@ -1,44 +1,48 @@
 import re
 
-operations = {'add': add, 'subtract': subtract, 'multiply': multiply, 'divide': divide}
+from bookdb import BookDB
 
-
-def add(x, y):
-    return x + y
-
-
-def subtract(x, y):
-    return x - y
-
-
-def multiply(x, y):
-    return x * y
-
-
-def divide(x, y):
-    return x / y
-
-
-def equations():
-    body = ['<h1>Choose an operation:/h1>', '<ul>']
-    formula_template = '<li><a href="/{formula}">{formula}</a></li>'
-    for ops in operations:
-        body.append(formula_template.format(*ops))
-    body.append('</ul>')
-    return '\n'.join(body)
+DB = BookDB()
 
 
 def resolve_path(path):
-    urls = [(r'^$', equations)]
-    matchpath = path.lstrip('/')
+    urls = [(r'^$', books),
+            (r'^book/(id[\d]+)$', book)]
+    match_path = path.lstrip('/')
     for regexp, func in urls:
-        match = re.match(regexp, matchpath)
+        match = re.match(regexp, match_path)
         if match is None:
             continue
         args = match.groups([])
         return func, args
     # we get here if no url matches
     raise NameError
+
+
+def book(book_id):
+    page = """
+    <h1>{title}</h1>
+    <table>
+        <tr><th>Author</th><td>{author}</td></tr>
+        <tr><th>Publisher</th><td>{publisher}</td></tr>
+        <tr><th>ISBN</th><td>{isbn}</td></tr>
+    </table>
+    <a href="/">Back to the list</a>
+    """
+    book = DB.title_info(book_id)
+    if book is None:
+        raise NameError
+    return page.format(**book)
+
+
+def books():
+    all_books = DB.titles()
+    body = ['<h1>My Bookshelf</h1>', '<ul>']
+    item_template = '<li><a href="/book/{id}">{title}</a></li>'
+    for book in all_books:
+        body.append(item_template.format(**book))
+    body.append('</ul>')
+    return '\n'.join(body)
 
 
 def application(environ, start_response):
