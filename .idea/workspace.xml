@@ -20,7 +20,7 @@
       <file leaf-file-name="security_audit.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/security_audit/security_audit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-375">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485882918098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace file">
+      <created>1485893729496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485893729496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -218,7 +225,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final audit code" />
-    <option name="LAST_COMMIT_MESSAGE" value="final audit code" />
+    <MESSAGE value="workspace file" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -265,7 +273,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/security_audit/security_audit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
