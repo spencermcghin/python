@@ -2,18 +2,15 @@
 # Imports
 from flask import *
 from slackclient import SlackClient
-import urllib
-import json
-# from jira import JIRA
+from jira import JIRA
 
 
 # JIRA Variables
-# jira = JIRA()
-key = ''
-username = 'spencer.mcghin@rittmanmead.com'
-password = ''
-# jira_auth = JIRA(basic_auth=(username, password))
-# jira_url = JIRA('https://rittmanmead.atlassian.net')
+user = 'spencer.mcghin@rittmanmead.com'
+password = 'BLADErunner1'
+server = 'https://rittmanmead.atlassian.net'
+options = {'server': server}
+jira = JIRA(options=options, basic_auth=(user, password))
 
 # Slack Variables
 slack_client = SlackClient('xoxp-2510066817-2543864854-133850972935-d17f532401c086cd5a98d05ef71a8775')
@@ -34,7 +31,30 @@ slack_client = SlackClient('xoxp-2510066817-2543864854-133850972935-d17f532401c0
 # Flask Variables
 app = Flask(__name__)
 
+
 # Functions for Program
+def connect_jira(jira_server, jira_user, jira_password):
+    # Connect to JIRA. Return None on error
+    try:
+        print('Connecting to JIRA server at: {}'.format(server))
+    except Exception as e:
+        print("Failed to connect to JIRA: %s" % e)
+        return None
+
+
+def jira_issue():
+    try:
+        issue_dict = {
+            "project": {"key": 'SM'},
+            "summary": "something's wrong",
+            "description": "test",
+            "issuetype": {"name": "Task"}
+        }
+        new_issue = jira.create_issue(fields=issue_dict)
+        return new_issue
+    except Exception as e:
+        print(e)
+        return None
 
 
 # Function to get args from slack

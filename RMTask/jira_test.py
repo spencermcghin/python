@@ -1,7 +1,5 @@
 # Imports
 from jira import JIRA
-import json
-import os
 
 user = 'spencer.mcghin@rittmanmead.com'
 password = 'BLADErunner1'
@@ -31,7 +29,6 @@ def jira_issue():
         return new_issue
     except Exception as e:
         print(e)
-        print('stuff')
         return None
 
 
