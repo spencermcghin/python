@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ab25d8-766d-440f-aa5f-cd0e2d03a35d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMcGhin_IP/session04/mashup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RMTask/jira_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMTask/RM_Task.py" afterPath="$PROJECT_DIR$/RMTask/RM_Task.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,14 +18,26 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RM_Task.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RM_Task.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="69" column="57" lean-forward="false" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+            <state relative-caret-position="-10">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding>
                 <element signature="e#11#30#0" expanded="true" />
                 <marker date="1485969832000" expanded="true" signature="345:448" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jira_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RMTask/jira_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+              <folding>
+                <element signature="e#10#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,6 +61,7 @@
         <option value="$PROJECT_DIR$/security_audit/security_compare.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/session04/mashup.py" />
         <option value="$PROJECT_DIR$/RMTask/RM_Task.py" />
+        <option value="$PROJECT_DIR$/RMTask/jira_test.py" />
       </list>
     </option>
   </component>
@@ -94,25 +106,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SMcGhin_IP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="session04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SMcGhin_IP" />
+              <option name="myItemId" value="RMTask" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -125,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.RM_Task">
+  <component name="RunManager" selected="Python.jira_test">
     <configuration default="false" name="RM_Task" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,6 +133,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RMTask/RM_Task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="jira_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RMTask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RMTask/jira_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -277,12 +288,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.RM_Task" />
+      <item index="1" class="java.lang.String" itemvalue="Python.jira_test" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.RM_Task" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.jira_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RM_Task" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485893729496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created slack communication">
+      <created>1485969844800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1485969844800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -346,7 +366,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final audit code" />
     <MESSAGE value="workspace file" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace file" />
+    <MESSAGE value="created slack communication" />
+    <option name="LAST_COMMIT_MESSAGE" value="created slack communication" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,13 +482,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RMTask/rmtask_env_vars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RMTask/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="69" column="57" lean-forward="false" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+        <state relative-caret-position="-10">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="e#11#30#0" expanded="true" />
             <marker date="1485969832000" expanded="true" signature="345:448" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RMTask/jira_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="e#10#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
