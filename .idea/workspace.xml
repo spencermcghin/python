@@ -4,7 +4,6 @@
     <list default="true" id="99ab25d8-766d-440f-aa5f-cd0e2d03a35d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMTask/RM_Task.py" afterPath="$PROJECT_DIR$/RMTask/RM_Task.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMTask/jira_test.py" afterPath="$PROJECT_DIR$/RMTask/jira_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +21,11 @@
       <file leaf-file-name="RM_Task.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <element signature="e#11#30#0" expanded="true" />
-                <marker date="1485984168000" expanded="true" signature="325:428" ph="..." />
+                <element signature="e#353#372#0" expanded="true" />
+                <marker date="1485988370000" expanded="true" signature="656:808" ph="..." />
               </folding>
             </state>
           </provider>
@@ -35,8 +34,8 @@
       <file leaf-file-name="jira_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RMTask/jira_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.jira_test">
+  <component name="RunManager" selected="Python.RM_Task">
     <configuration default="false" name="RM_Task" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,8 +292,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.jira_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RM_Task" />
+        <item index="0" class="java.lang.String" itemvalue="Python.RM_Task" />
+        <item index="1" class="java.lang.String" itemvalue="Python.jira_test" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485983228436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Combined in RMTask">
+      <created>1485984176234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1485984176234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -374,7 +380,8 @@
     <MESSAGE value="workspace file" />
     <MESSAGE value="created slack communication" />
     <MESSAGE value="Got JIRA request to work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got JIRA request to work" />
+    <MESSAGE value="Combined in RMTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Combined in RMTask" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,19 +514,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RMTask/jira_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#11#30#0" expanded="true" />
-            <marker date="1485984168000" expanded="true" signature="325:428" ph="..." />
+            <element signature="e#353#372#0" expanded="true" />
+            <marker date="1485988370000" expanded="true" signature="656:808" ph="..." />
           </folding>
         </state>
       </provider>
