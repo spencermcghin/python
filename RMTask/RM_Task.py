@@ -52,7 +52,6 @@ def connect_jira(jira_server, jira_user, jira_password):
 
 # Create Task Issue on
 def jira_issue(project, description):
-    if slack_text:
         try:
             issue_dict = {
                 "project": {"key": project},
@@ -99,7 +98,11 @@ def slack_response():
 
 if __name__ == '__main__':
     connect_jira(jira_server=server, jira_user=jira_user, jira_password=password)
-    create_issue = jira_issue(jira_project, jira_description)
+    if slack_text:
+        try:
+            create_issue = jira_issue(jira_project, jira_description)
+        except Exception as e:
+            print(e)
     app.run(debug=True, host='localhost', port=5000)
 
 
