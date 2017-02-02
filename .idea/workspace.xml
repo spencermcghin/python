@@ -21,11 +21,11 @@
       <file leaf-file-name="RM_Task.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="920">
+              <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding>
                 <element signature="e#353#372#0" expanded="true" />
-                <marker date="1485988370000" expanded="true" signature="656:808" ph="..." />
+                <marker date="1485995019000" expanded="true" signature="452:604" ph="..." />
               </folding>
             </state>
           </provider>
@@ -346,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485984176234</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Combined in RMTask">
+      <created>1485988373170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1485988373170</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -522,11 +529,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="920">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="e#353#372#0" expanded="true" />
-            <marker date="1485988370000" expanded="true" signature="656:808" ph="..." />
+            <marker date="1485995019000" expanded="true" signature="452:604" ph="..." />
           </folding>
         </state>
       </provider>
