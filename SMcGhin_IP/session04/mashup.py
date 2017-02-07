@@ -1,9 +1,10 @@
 from bs4 import BeautifulSoup
-import geocoder
-import json
-import pathlib
-import re
 import requests
+import pathlib, re, geocoder, json
+from operator import itemgetter
+
+
+import sys, pprint
 
 
 INSPECTION_DOMAIN = 'http://info.kingcounty.gov'
@@ -152,15 +153,49 @@ def get_geojson(result):
         if isinstance(val, list):
             val = " ".join(val)
         inspection_data[key] = val
-        inspection_data = sorted(result.items(), key=val[1]['Average Score'])
     geojson['properties'] = inspection_data
     return geojson
 
 
+def get_args():
+    # get the key to sort by
+    if sys.argv[1] == 'highscore':
+        sort_key = "High Score"
+    elif sys.argv[1] == 'averagescore':
+        sort_key = "Average Score"
+    elif sys.argv[1] == 'inspections':
+        sort_key = "Total Inspections"
+    # get the result count
+    num_result = int(sys.argv[2])
+    # get the reverse setting - this one is optional - default is True
+    try:
+        if sys.argv[3] == 'reverse':
+            reverse = False
+    except IndexError:
+        reverse = True
+    # return the 3 command line arguments
+    return sort_key, num_result, reverse
+
+
+def sort_results(result, key, reverse):
+    # Sorting: http://stackoverflow.com/questions/
+    # 72899/how-do-i-sort-a-list-of-dictionaries-by-values-of-the-dictionary-in-python
+    # with lambda function
+    sorted_list = sorted(result['features'], key=lambda k: k['properties'][key], reverse=reverse)
+    # with itemgetter function
+    # sorted_newlist = sorted(result['features'], key=itemgetter(['properties'][key], reverse=reverse))
+    new_result = {}
+    new_result["features"] = sorted_list
+    new_result["type"] = "FeatureCollection"
+    return new_result
+
+
 if __name__ == '__main__':
+    # get the command line arguments
+    key, num_result, reverse = get_args()
     total_result = {'type': 'FeatureCollection', 'features': []}
-    for result in result_generator(10):
+    for result in result_generator(num_result):
         geojson = get_geojson(result)
-        total_result['features'].append(geojson)
-    with open('my_map.json', 'w') as fh:
-        json.dump(total_result, fh)
+        total_result["features"].append(geojson)
+    new_result = sort_results(total_result, key, reverse)
+    pprint.pprint(new_result)
