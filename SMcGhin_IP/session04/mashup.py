@@ -46,7 +46,7 @@ def parse_source(html):
 
 def load_inspection_page(name):
     file_path = pathlib.Path(name)
-    return file_path.read_text(encoding='utf8')
+    return file_path.read_text(encoding='utf8', errors='ignore')
 
 
 def restaurant_data_generator(html):
@@ -136,6 +136,7 @@ def result_generator(count):
 
 
 def get_geojson(result):
+    # TODO - Sort results by Average Score
     address = " ".join(result.get('Address', ''))
     if not address:
         return None
@@ -151,6 +152,7 @@ def get_geojson(result):
         if isinstance(val, list):
             val = " ".join(val)
         inspection_data[key] = val
+        inspection_data = sorted(result.items(), key=val[1]['Average Score'])
     geojson['properties'] = inspection_data
     return geojson
 

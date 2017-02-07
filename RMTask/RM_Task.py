@@ -18,7 +18,7 @@ from jira import JIRA
 
 
 # Slack Variables
-slack_client = SlackClient('xoxp-2510066817-2543864854-133850972935-d17f532401c086cd5a98d05ef71a8775')
+slack_client = SlackClient('')
 slack_user = request.form.get('user_name', None)
 slack_token = request.form.get('token', None)
 slack_text = request.form.get('text', None)
