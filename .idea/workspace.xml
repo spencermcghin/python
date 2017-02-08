@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96026e0-29eb-48d6-a308-3f470de0d98b" name="Default" comment="Created journal project">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install-3.5" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install-3.5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/hupper" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/hupper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pcreate" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pcreate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pdistreport" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pdistreport" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/prequest" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/prequest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/proutes" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/proutes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pserve" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pserve" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pshell" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pshell" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/ptweens" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/ptweens" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pviews" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pviews" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +26,20 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-225">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,6 +169,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SMcGhin_IP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -236,6 +293,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#72#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
