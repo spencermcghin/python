@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96026e0-29eb-48d6-a308-3f470de0d98b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/.coveragerc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/CHANGES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/meta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/mymodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/scripts/initializedb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/404.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/layout.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/mytemplate.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/notfound.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/dist/learning_journal-0.0-py2.7.egg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/dist/learning_journal-0.0-py3.5.egg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal.sqlite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/scripts/initializedb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/templates/404.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/templates/layout.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/templates/mytemplate.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/views/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/views/notfound.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/production.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/pytest.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMTask/RM_Task.py" afterPath="$PROJECT_DIR$/RMTask/RM_Task.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,14 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RM_Task.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding>
-                <element signature="e#353#372#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="590">
+              <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,8 +38,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/interfaces.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
-        <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
         <option value="$PROJECT_DIR$/RMTask/RM_Task.py" />
+        <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
       </list>
     </option>
   </component>
@@ -151,6 +101,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SMcGhin_IP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SMcGhin_IP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,14 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1486659327507</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="remove password from rm task">
+      <created>1486659590291</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1486659590291</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -309,7 +292,8 @@
     <MESSAGE value="rebuild virtual env" />
     <MESSAGE value="rebuilt env in local machine" />
     <MESSAGE value="created database finally!" />
-    <option name="LAST_COMMIT_MESSAGE" value="created database finally!" />
+    <MESSAGE value="remove password from rm task" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove password from rm task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -390,14 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -405,6 +381,14 @@
           <folding>
             <element signature="e#353#372#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
