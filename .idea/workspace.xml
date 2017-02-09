@@ -2,858 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96026e0-29eb-48d6-a308-3f470de0d98b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/activate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/activate.csh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/activate.fish" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/easy_install-3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/hupper" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pcreate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pdistreport" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pip3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pip3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/prequest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/proutes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pserve" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pshell" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/ptweens" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/pviews" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/python3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/bin/python3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2-py2.6-nspkg.pth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/namespace_packages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/pydist.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/PasteDeploy-1.5.2.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/WebOb-1.7.1.dist-info/zip-safe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/easy_install.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper-0.4.2.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/cli.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/ipc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/polling.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/reloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/watchdog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/winapi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/hupper/worker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/converters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/loadwsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/paster_templates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/paster_templates/paste_deploy/+package+/sampleapp.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/paster_templates/paste_deploy/+package+/wsgiapp.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/paster_templates/paste_deploy/docs/devel_config.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/paste/deploy/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip-9.0.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/__main__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/appdirs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/ansi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/initialise.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/win32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/colorama/winterm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/database.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/index.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/locators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/manifest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/markers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/metadata.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/resources.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/scripts.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/t32.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/t64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/version.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/w32.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/w64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distlib/wheel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/distro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_inputstream.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/py.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/ipaddress.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/ordereddict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/__about__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/_structures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/markers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/requirements.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/packaging/version.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/progress/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/progress/bar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/progress/counter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/progress/helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/progress/spinner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/pyparsing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/re-vendor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/adapters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/auth.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/cacert.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/certs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/cookies.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/hooks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/sessions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/status_codes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/structures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/requests/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/retrying.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/six.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/webencodings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/webencodings/labels.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/webencodings/mklabels.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/webencodings/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/basecommand.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/baseparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/cmdoptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/check.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/completion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/download.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/freeze.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/hash.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/help.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/install.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/list.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/search.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/show.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/uninstall.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/commands/wheel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/compat/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/compat/dictconfig.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/download.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/index.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/locations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/models/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/models/index.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/operations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/operations/check.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/operations/freeze.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/pep425tags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/req/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/req/req_file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/req/req_install.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/req/req_set.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/req/req_uninstall.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/status_codes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/appdirs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/build.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/deprecation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/encoding.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/filesystem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/glibc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/hashes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/logging.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/outdated.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/packaging.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/setuptools_build.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/utils/ui.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/vcs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/vcs/bazaar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/vcs/git.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/vcs/mercurial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/vcs/subversion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pip/wheel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pkg_resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid-1.8.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/asset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/authentication.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/authorization.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/adapters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/assets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/factories.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/predicates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/rendering.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/security.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/tweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/config/zca.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/decorator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/encode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/events.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/httpexceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/location.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/paster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/path.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/predicates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/registry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/renderers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/resource.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/router.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+dot+coveragerc_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/models/__init__.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/models/meta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/models/mymodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/scripts/initializedb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/templates/404.jinja2_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/templates/layout.jinja2_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/templates/mytemplate.jinja2_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/tests.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/views/default.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/+package+/views/notfound.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/CHANGES.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/MANIFEST.in_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/README.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/development.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/production.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/pytest.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/alchemy/setup.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/copydir.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+dot+coveragerc_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/templates/layout.jinja2_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/templates/mytemplate.jinja2_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/tests.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/+package+/views.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/CHANGES.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/MANIFEST.in_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/README.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/development.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/production.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/pytest.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/starter/setup.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/template.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+dot+coveragerc_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/templates/mytemplate.pt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/tests.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/+package+/views.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/CHANGES.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/MANIFEST.in_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/README.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/development.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/production.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/pytest.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scaffolds/zodb/setup.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/pcreate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/pdistreport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/prequest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/proutes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/pserve.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/pshell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/ptweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/scripts/pviews.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/security.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/session.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/static.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/dummy.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/manifest2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/minimal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/minimal.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/minimal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/minimal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/nonminimal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/static/.hiddenfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/static/arcs.svg.tgz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/static/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/fixtures/static/subdir/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/ccbugapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/conflictapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/conflictapp/included.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/defpermbugapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/eventonly/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/exceptionviewapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/exceptionviewapp/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/exceptionviewapp/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/fixtureapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/fixtureapp/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/fixtureapp/subpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/fixtureapp/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/forbiddenapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/forbiddenview/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/hybridapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/hybridapp/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/includeapp1/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/includeapp1/root.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/includeapp1/three.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/includeapp1/two.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/GARBAGE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/be/LC_MESSAGES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/de/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/de/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/de_DE/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/de_DE/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/en/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale/en/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/GARBAGE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/be/LC_MESSAGES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/de/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/de/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/en/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale2/en/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/GARBAGE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/be/LC_MESSAGES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/de/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/de/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/en/LC_MESSAGES/deformsite.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/localeapp/locale3/en/LC_MESSAGES/deformsite.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/notfoundview/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/permbugapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/rendererscanapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/rendererscanapp/two/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/restbugapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/restbugapp/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/static_abspath/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/static_assetspec/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/static_routeprefix/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/staticpermapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/subrequestapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/viewdecoratorapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/viewdecoratorapp/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/viewdecoratorapp/views/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/pkgs/wsgiapp2app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_asset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_authentication.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_authorization.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/files/assets/dummy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/files/minimal.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/path/scanerror/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/path/scanerror/will_raise_error.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/asset/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/asset/subpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/asset/subpackage/templates/bar.pt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scanextrakw/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/another.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/pod/notinit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/subpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/subpackage/notinit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/scannable/subpackage/subsubpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/selfscan/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/pkgs/selfscan/another.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_adapters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_assets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_factories.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_init.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_rendering.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_security.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_tweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_config/test_views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_decorator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_docs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_encode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_events.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_httpexceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_i18n.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_integration.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_location.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_paster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_path.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_predicates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_registry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_renderers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_router.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/.badfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/__init__.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/resources.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/footerbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/headerbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/ie6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/middlebg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/pylons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/pyramid-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/static/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/templates/mytemplate.pt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/test_no_content.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/tests.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/+package+/views.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/CHANGES.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/MANIFEST.in_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/README.txt_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/development.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/production.ini_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/fixture_scaffold/setup.py_tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/test_copydir.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/test_init.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scaffolds/test_template.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/dummy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/pystartup.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_pcreate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_pdistreport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_prequest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_proutes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_pserve.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_pshell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_ptweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_scripts/test_pviews.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_security.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_session.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_static.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_threadlocal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_traversal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_tweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_url.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_urldispatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_view.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_viewderivers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tests/test_wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/threadlocal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/traversal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/tweens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/url.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/urldispatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/view.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/viewderivers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6-py3.5-nspkg.pth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/namespace_packages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze.lru-0.6.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze/lru/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/repoze/lru/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/archive_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/cli-32.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/cli-64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/cli.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/alias.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/bdist_egg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/bdist_rpm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/bdist_wininst.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/build_ext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/build_py.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/develop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/easy_install.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/egg_info.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/install.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/install_egg_info.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/install_lib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/install_scripts.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/launcher manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/register.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/rotate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/saveopts.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/sdist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/setopt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/upload.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/command/upload_docs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/depends.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/dist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/extension.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/gui-32.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/gui-64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/gui.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/launch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/lib2to3_ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/package_index.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/py26compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/py27compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/py31compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/sandbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/script (dev).tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/script.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/site-patch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/ssl_support.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/unicode_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/version.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/setuptools/windows_support.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring-1.3.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/fixtures/locales/de/LC_MESSAGES/messages.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/fixtures/locales/de/LC_MESSAGES/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/test__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/test_integration.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/translationstring/tests/translations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian-1.0.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/advice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/compat/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/compat/pkgutil_26.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/attrerror/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/attrerror/will_cause_import_error.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/attrerror_package/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/attrerror_package/will_cause_import_error/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/category.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/classdecorator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/import_and_scan/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/import_and_scan/one.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/import_and_scan/two.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importerror/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importerror/will_cause_import_error.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importerror_package/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importerror_package/will_cause_import_error/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importonly/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importonly/one.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/importonly/two.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/inheritance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/lifting1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/lifting2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/lifting3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/lifting4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/lifting5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/nested/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/nested/sub1/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/nested/sub1/subsub1/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/nested/sub2/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/nested/sub2/subsub2/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/one/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/one/module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/one/module2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/pyc/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/pyc/module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/pyc/subpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/subclassing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/subpackages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/subpackages/childpackage/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/subpackages/childpackage/will_cause_import_error.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/subpackages/mod2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/two/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/two/mod1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/fixtures/two/mod2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/test_advice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/venusian/tests/test_venusian.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/acceptparse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/byterange.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/cachecontrol.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/cookies.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/datetime_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/dec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/descriptors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/etag.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/exc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/headers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/multidict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/static.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/webob/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0-py2.7-nspkg.pth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/namespace_packages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.deprecation-4.2.0.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3-py3.5-nspkg.pth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/namespace_packages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope.interface-4.3.3.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/deprecation/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/deprecation/deprecation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/deprecation/fixture.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/deprecation/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/_flatten.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/_zope_interface_coptimizations.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/_zope_interface_coptimizations.cpython-35m-darwin.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/adapter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/advice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/idatetime.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/mapping.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/sequence.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/tests/basemapping.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/tests/test_idatetime.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/common/tests/test_import_interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/declarations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/document.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/interface.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/registry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/ro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/advisory_testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/dummy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/idummy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/ifoo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/ifoo_other.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/m1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/m2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/odd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_adapter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_advice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_declarations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_document.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_element.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_interface.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_interfaces.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_odd_declarations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_registry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_ro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_sorting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/tests/test_verify.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/zope/interface/verify.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/pip-selfcheck.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -867,68 +17,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+            <state relative-caret-position="590">
+              <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="development.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataframe_from_csv.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_data_science/dataframe_from_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data_science.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meta.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mymodel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#72#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -944,8 +40,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/interfaces.py" />
-        <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
         <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
+        <option value="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
       </list>
     </option>
   </component>
@@ -968,6 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -1051,7 +148,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1127,14 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1486531596308</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="rebuilt env in local machine">
+      <created>1486599084229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1486599084229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1160,7 +263,8 @@
     <MESSAGE value="Created journal project" />
     <MESSAGE value="create egg" />
     <MESSAGE value="rebuild virtual env" />
-    <option name="LAST_COMMIT_MESSAGE" value="rebuild virtual env" />
+    <MESSAGE value="rebuilt env in local machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebuilt env in local machine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1169,29 +273,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
     <entry file="file://$PROJECT_DIR$/python_data_science/dataframe_from_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,53 +286,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
     <entry file="file://$PROJECT_DIR$/python_data_science/dataframe_from_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1253,47 +304,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py">
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/production.ini" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/scripts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/interfaces.py" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py" />
+    <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/production.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/scripts/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-360">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -1305,71 +328,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/ljenv/lib/python3.5/site-packages/pyramid/interfaces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11460">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/meta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RMTask/RM_Task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_data_science/data_science.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/learning_journal/models/mymodel.py" />
     <entry file="file://$PROJECT_DIR$/python_data_science/dataframe_from_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/development.ini" />
+    <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
