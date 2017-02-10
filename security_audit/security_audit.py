@@ -43,7 +43,7 @@ def win_runcat(domain_home):
 
 def lin_runcat(domain_home):
     os.chdir(domain_home + '/bitools/bin')
-    os.system('runcat.sh -cmd report -offline ' + domain_home +
+    os.system('./runcat.sh -cmd report -offline ' + domain_home +
               '/bidata/service_instances/ssi/metadata/content/catalog'
               ' -forceoutputFile ' + file_loc_lin +
               ' -type "All" -folder "/shared"'
