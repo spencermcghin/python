@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96026e0-29eb-48d6-a308-3f470de0d98b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/meta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/models/mymodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/routes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/scripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/scripts/initializedb.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/pyramid-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/pyramid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/static/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/404.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/layout.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/templates/mytemplate.jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/build/lib/learning_journal/views/notfound.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/dist/learning_journal-0.0-py2.7.egg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/dist/learning_journal-0.0-py3.6.egg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" afterPath="$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py" />
     </list>
@@ -40,8 +21,8 @@
       <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            <state relative-caret-position="545">
+              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -133,6 +114,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ljenv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SMcGhin_IP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning_journal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ljenv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python3.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -448,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486772440947</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added align top to flask page">
+      <created>1486934065803</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1486934065803</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -661,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SMcGhin_IP/projects/learning_journal/learning_journal/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        <state relative-caret-position="545">
+          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
