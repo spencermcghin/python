@@ -2,6 +2,9 @@ import os
 import sys
 import transaction
 
+# added this import
+from sqlalchemy import engine_from_config
+
 from pyramid.paster import (
     get_appsettings,
     setup_logging,
@@ -15,7 +18,14 @@ from ..models import (
     get_session_factory,
     get_tm_session,
     )
-from ..models import MyModel
+
+# added these imports from mymodel
+from ..models.mymodel import (
+    DBSession,
+    Base,
+    User,  # <-- new
+    password_context,  # <-- new
+)
 
 
 def usage(argv):
@@ -33,13 +43,12 @@ def main(argv=sys.argv):
     setup_logging(config_uri)
     settings = get_appsettings(config_uri, options=options)
 
-    engine = get_engine(settings)
+    engine = engine_from_config(settings, 'sqlalchemy.')
+    DBSession.configure(bind=engine)
     Base.metadata.create_all(engine)
 
-    session_factory = get_session_factory(engine)
-
     with transaction.manager:
-        dbsession = get_tm_session(session_factory, transaction.manager)
-
-        model = MyModel(name='one', value=1)
-        dbsession.add(model)
+        password = os.environ.get('ADMIN_PASSWORD', 'admin')
+        encrypted = password_context.encrypt(password)
+        admin = User(name=u'admin', password=encrypted)
+        DBSession.add(admin)
