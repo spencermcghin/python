@@ -2,7 +2,7 @@
 from jira import JIRA
 
 user = 'spencer.mcghin@rittmanmead.com'
-password = 'BLADErunner1'
+password = ''
 server = 'https://rittmanmead.atlassian.net'
 options = {'server': server}
 jira = JIRA(options=options, basic_auth=(user, password))
